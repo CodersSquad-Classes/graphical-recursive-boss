@@ -30,8 +30,6 @@ From the _Essential Algorithms: A Practical Approach to Computer Algorithms_ boo
 
 # How to compile & run you program
 
-# ds-graphical-recursive
-
 Evidence 1.3.1 – Graphical Recursive Algorithms  
 Author: Luis Andrés Casillas (A01645008)  
 Date: 08/09/2025
