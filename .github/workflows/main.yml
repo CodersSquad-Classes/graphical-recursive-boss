@@ -1,0 +1,13 @@
+name: C++ Build
+
+on: [push, pull_request]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Compile
+        run: g++ -O2 -std=c++17 graphical_recursive.cpp -o graphical_recursive
+      - name: Run test
+        run: ./graphical_recursive hilbert 3
