@@ -71,7 +71,7 @@ First lines of lines.txt:
 (0,146)(146,146)
 (146,146)(146,0)
 ...
-
+´´´
 
 Notes
 
